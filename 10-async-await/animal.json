@@ -1,0 +1,4 @@
+[{"name":"tiger","paw":4,"fang":true},
+ {"name":"bird","paw":2,"fang":false},
+ {"name":"dinosaur","paw":4,"fang":true}
+]
